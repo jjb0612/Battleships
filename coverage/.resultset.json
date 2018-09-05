@@ -1,0 +1,28 @@
+{
+  "Unit Tests": {
+    "coverage": {
+      "/Users/joshuabaik/Desktop/Turing/Module_1/projects/battleships/lib/game_start.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1536110176
+  }
+}
