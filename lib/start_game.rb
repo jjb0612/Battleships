@@ -1,6 +1,6 @@
 require 'pry'
 
-class GameStart
+class StartGame
 
     attr_reader :input
     def initialize

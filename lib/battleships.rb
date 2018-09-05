@@ -1,4 +1,5 @@
-require './lib/game_start'
+require 'pry'
+require './lib/start_game'
 
 class BattleShips
 
@@ -11,5 +12,18 @@ class BattleShips
     # game_start.save_user_input(user_input)
 
     # puts game_start.input
+
+    grid = [
+        [" ", "1", "2", "3", "4"],
+        ["A", " ", " ", " ", " "],
+        ["B", " ", " ", " ", " "],
+        ["C", " ", " ", " ", " "],
+        ["D", " ", " ", " ", " "]
+    ]
+
+    puts grid
+
+    
+
 
 end
